@@ -2,7 +2,7 @@
 
 ## 🚀 One-Click Deploy on Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/your-username/ludka-case)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/ehleb/ludka-case)
 
 ---
 
